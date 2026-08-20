@@ -19,7 +19,7 @@ Make sure you have these installed before starting:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Prashant1659/Mind-Sky.git
+git clone https://github.com/snehaa0319/Mind-Sky.git
 cd Mind-Sky
 ```
 
